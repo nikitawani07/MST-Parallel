@@ -3,7 +3,9 @@
 This project implements the algorithms of Boruvka and Kruskal for creating a minimum spanning tree (MST) of a weighted, undirected graph in C with parallelization via MPI.
 
 Boruvka's algorithm:
+
 ● Track components via union-find data structure with union by rank and path compression
+
 ● Parallelized search for minimum outgoing edge
 
 Kruskal's algorithm:
