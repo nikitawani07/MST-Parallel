@@ -19,7 +19,9 @@ Use of Boruvka's algorithm is recommended to find the MST of a graph.
 ## Commands to Run:-
 
 To compile:
+
 mpicc filename
 
 To run:
+
 mpirun ./a.out graph1.csv -np 4
