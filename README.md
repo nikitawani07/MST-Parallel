@@ -4,13 +4,13 @@ This project implements the algorithms of Boruvka and Kruskal for creating a min
 
 Boruvka's algorithm:
 
-● Track components via union-find data structure with union by rank and path compression
-
-● Parallelized search for minimum outgoing edge
+1. Track components via union-find data structure with union by rank and path compression
+2. Parallelized search for minimum outgoing edge
 
 Kruskal's algorithm:
-● Sorting edges via parallelized merge sort
-● Track components via union-find data structure with union by rank and path compression
+
+1. Sorting edges via parallelized merge sort
+2. Track components via union-find data structure with union by rank and path compression
 
 ## Conclusion  
 
