@@ -16,7 +16,7 @@ Kruskal's algorithm:
 
 Use of Boruvka's algorithm is recommended to find the MST of a graph.
 
-## Commands to Run:-
+## Commands to Run
 
 To compile:
 
